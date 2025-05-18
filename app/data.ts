@@ -58,6 +58,14 @@ export const PROJECTS: Project[] = [
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4',
     id: 'project2',
   },
+  {
+    name: 'My Project',
+    description: 'Project project project.',
+    link: 'https://mcdonalds.vn/',
+    video:
+      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hhttps://mcdonalds.vn/uploads/2018/xviber_image_2024-10-30_09-55-15-596.png.pagespeed.ic.1xVMDAUHV1.webpMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4',
+    id: 'project3',
+  },
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
@@ -93,6 +101,12 @@ export const BLOG_POSTS: BlogPost[] = [
     description: 'How AI is changing the way we design',
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
+  },
+  {
+    title: 'My First Blog',
+    description: 'Demo',
+    link: '/blog/my-first-blog',
+    uid: 'blog-2',
   },
 ]
 
